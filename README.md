@@ -38,7 +38,7 @@ réellement à proximité du joueur.
 
 
 
-![Réaction](2.mp4)
+![Réaction](video_4x.mp4)
 
 ## À propos de cette build
 
