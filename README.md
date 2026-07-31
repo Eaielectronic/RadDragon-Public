@@ -1,5 +1,8 @@
 # RadDragon
-![Icon](0.png)
+
+<p align="center">
+  <img src="0.png" alt="Icon" width="200">
+</p>
 
 ## Concept
 
@@ -36,9 +39,11 @@ réellement à proximité du joueur.
 
 ## Captures
 
-
-
-![Réaction](video_4x.mp4)
+<p align="center">
+  <video src="video_4x.mp4" controls width="600">
+    Votre navigateur ne supporte pas la balise vidéo.
+  </video>
+</p>
 
 ## À propos de cette build
 
@@ -53,7 +58,7 @@ Discord du projet : https://discord.gg/C7SSazC9R
 
 ## Licence
 
-© 2026  AretlithStudio. Tous droits réservés.
+© 2026 AretlithStudio. Tous droits réservés.
 
 Cette démo est fournie à titre de test/preview uniquement. Toute
 redistribution, décompilation, ingénierie inverse, ou utilisation
