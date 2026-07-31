@@ -49,11 +49,11 @@ des outils de débogage.
 ## Signaler un bug / Feedback
 
 Les retours (bugs, suggestions, ressenti) sont les bienvenus sur le
-Discord du projet : [lien à ajouter]
+Discord du projet : https://discord.gg/C7SSazC9R
 
 ## Licence
 
-© 2026 [ton nom/studio]. Tous droits réservés.
+© 2026  AretlithStudio. Tous droits réservés.
 
 Cette démo est fournie à titre de test/preview uniquement. Toute
 redistribution, décompilation, ingénierie inverse, ou utilisation
