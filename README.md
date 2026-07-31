@@ -40,7 +40,7 @@ réellement à proximité du joueur.
 ## Captures
 
 <p align="center">
-  <video src="video_4x.mp4" controls width="600">
+  <video src="https://github.com/Eaielectronic/RadDragon-Public/raw/refs/heads/main/video_4x.mp4" controls width="600">
     Votre navigateur ne supporte pas la balise vidéo.
   </video>
 </p>
